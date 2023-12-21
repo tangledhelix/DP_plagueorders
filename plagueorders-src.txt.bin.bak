@@ -17,7 +17,7 @@
 );
 
 
-$::bookmarks[0] = '274.58';
+$::bookmarks[0] = '6.0';
 
 $::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
 

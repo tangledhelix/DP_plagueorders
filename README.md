@@ -40,6 +40,13 @@ None.
 
 ### Illustrations ###
 
+- [ ] 001: publisher logo
+- [ ] 003: banner image
+- [ ] 003: illustrated drop-cap
+- [ ] 007: illustrated drop-cap
+- [ ] 012: illustrated drop-cap
+- [ ] 014: illustrated drop-cap
+
 ### Things to revisit ###
 
 ### Proofer's notes ###

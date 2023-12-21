@@ -10,11 +10,31 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 - [Good words](good_words.txt)
 - [Bad words](bad_words.txt)
 
-Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
+Page references (e.g. `001`) refer to the scan numbers, not the original book's
+page numbers.
 
 ### Project manager notes ###
 
+The book uses the long s, which should be proofed as a regular s (the long s
+looks like a f with the right hand side of the crossbar missing--see the wiki
+page on [Proofing old texts][1] if you are unfamiliar with this). The OCR
+usually recognizes this as f, but guiprep fixed most of them (e.g. perfon is
+corrected to person); where it was unclear whether f or s is right guiprep will
+have left an asterisk (e.g. `*ame` since both fame and same are valid words)
+and P1 should replace the `*` with the right letter.
+
+[1]: https://www.pgdp.net/wiki/Proofing_old_texts
+
+ct ligatures should be proofed as ct, since it is a meaningless typographical
+fancy. (Similarly for st ligatures.)
+
+It has [catchwords][2], which should be deleted.
+
+[2]: https://www.pgdp.net/c/faq/proofreading_guidelines.php#next_word
+
 ### Forum notes ###
+
+None.
 
 ### General notes ###
 

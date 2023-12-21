@@ -1,0 +1,36 @@
+%::pagenumbers = (
+ 'Pg001' => {'offset' => '10.0', 'label' => 'Pg 1', 'style' => 'Arabic', 'action' => 'Start @', 'base' => '1'},
+ 'Pg002' => {'offset' => '36.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg003' => {'offset' => '38.0', 'label' => 'Pg 2', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg004' => {'offset' => '73.0', 'label' => 'Pg 3', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg005' => {'offset' => '106.0', 'label' => 'Pg 4', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg006' => {'offset' => '139.0', 'label' => 'Pg 5', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg007' => {'offset' => '176.0', 'label' => 'Pg 6', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '212.0', 'label' => 'Pg 7', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg009' => {'offset' => '245.0', 'label' => 'Pg 8', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg010' => {'offset' => '279.0', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg011' => {'offset' => '314.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '346.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg013' => {'offset' => '384.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg014' => {'offset' => '421.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '464.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+);
+
+
+$::bookmarks[0] = '10.36';
+
+$::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
+
+$::spellindexbkmrk = '';
+
+$::projectid = 'projectID64000f62b13c9';
+
+$::booklang = 'en';
+
+$::bookauthor = "";
+
+$scannoslistpath = 'wordlist';
+
+$::charsuiteenabled{'Basic Latin'} = 1;
+
+1;

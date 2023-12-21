@@ -49,6 +49,29 @@ None.
 
 ### Things to revisit ###
 
+- [ ] 003: illo dropcap
+- [ ] 004: 2 x dropcap
+- [ ] 005: starts new para/section
+- [ ]       2 x dropcap
+- [ ] 006: dropcap
+- [ ] 007: starts new para/section
+- [ ]       illo dropcap
+- [ ]       2 x dropcap
+- [ ] 008: 3 x dropcap
+- [ ] 009: dropcap
+- [ ] 010: starts new para
+- [ ]       2 x dropcap
+- [ ] 011: 2 x dropcap
+- [ ] 012: starts new para/section
+- [ ]       2 x dropcap
+- [ ]       illo dropcap
+- [ ] 013: starts new para/section
+- [ ]       3 x dropcap
+- [ ] 014: starts new para/section
+- [ ]       illo dropcap
+- [ ]       2 x dropcap
+- [ ] 015: dropcap
+
 ### Proofer's notes ###
 
 ### Joined hyphenated words ###

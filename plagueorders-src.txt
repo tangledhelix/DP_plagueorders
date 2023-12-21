@@ -10,50 +10,32 @@
 .bn 001.png
 .pn 1
 
-
-
-
-/*
-ORDERS
-
-CONCEIVED
-
-AND
-
-PUBLISHED
-
-By
-
-The Lord <i>MAJOR</i> and Aldermen
-of the City of <sc>London</sc>,
-concerning the Infection of the
-Plague.
+.h1
+<xxl>ORDERS</xxl> | \
+<l>CONCEIVED</l> | <s>AND</s> | <l>PUBLISHED</l> | <s>By</s> | \
+<l>The Lord <i>MAJOR</i> and Aldermen \
+of the City of <sc>London</sc>, | \
+concerning the Infection of the Plague.</l>
 
 [Illustration]
 
-Printed by <i>James Flesher</i>, Printer to the Honourable
-City of <sc>London</sc>.
-*/
+.ce
+<l>Printed by <i>James Flesher</i>, Printer to the Honourable</l>
+
+.ce
+<l>City of <sc>London</sc>.</l>
+
 .bn 002.png
 .bn 003.png
 .pn +1
 
-
-
-
 [Illustration]
 
-
-
-
-ORDERS
-
-/#
-Conceived and published by the
-Lord <sc>Major</sc> and Aldermen of the City
-of <i>London</i>, concerning the infection of the
-Plague.
-#/
+.ce
+<xxl>ORDERS</xxl> || \
+<xl>Conceived and published by the Lord <sc>Major</sc> \
+and Aldermen of the City of <i>London</i>, \
+concerning the infection of the Plague.</xl>
 
 
 Whereas in the first Year of the Reign

@@ -1,23 +1,23 @@
 %::pagenumbers = (
  'Pg001' => {'offset' => '10.0', 'label' => 'Pg 1', 'style' => 'Arabic', 'action' => 'Start @', 'base' => '1'},
- 'Pg002' => {'offset' => '37.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
- 'Pg003' => {'offset' => '38.0', 'label' => 'Pg 2', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg004' => {'offset' => '74.0', 'label' => 'Pg 3', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg005' => {'offset' => '108.0', 'label' => 'Pg 4', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg006' => {'offset' => '142.0', 'label' => 'Pg 5', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg007' => {'offset' => '180.0', 'label' => 'Pg 6', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg008' => {'offset' => '217.0', 'label' => 'Pg 7', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg009' => {'offset' => '251.0', 'label' => 'Pg 8', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg010' => {'offset' => '286.0', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg011' => {'offset' => '322.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg012' => {'offset' => '355.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg013' => {'offset' => '394.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg014' => {'offset' => '432.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg015' => {'offset' => '476.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg002' => {'offset' => '28.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
+ 'Pg003' => {'offset' => '29.0', 'label' => 'Pg 2', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg004' => {'offset' => '56.0', 'label' => 'Pg 3', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg005' => {'offset' => '90.0', 'label' => 'Pg 4', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg006' => {'offset' => '124.0', 'label' => 'Pg 5', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg007' => {'offset' => '162.0', 'label' => 'Pg 6', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '199.0', 'label' => 'Pg 7', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg009' => {'offset' => '233.0', 'label' => 'Pg 8', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg010' => {'offset' => '268.0', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg011' => {'offset' => '304.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '337.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg013' => {'offset' => '376.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg014' => {'offset' => '414.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '458.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '37.11';
+$::bookmarks[0] = '37.13';
 
 $::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
 

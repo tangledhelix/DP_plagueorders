@@ -477,7 +477,7 @@ in the Evening, according to the ancient Law and custome
 of this City, upon the penalties ordained in that
 behalf.
 
-<tb>
+.tb
 
 And for the better execution of these Orders, and such
 other Rules and Directions as upon further consideration

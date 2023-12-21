@@ -7,7 +7,8 @@
 .dt Orders conceived and published by the Lord Major and Aldermen of the City of London, concerning the infection of the plague, by Anonymous—A Project Gutenberg eBook
 
 
------File: 001.png---------------------------------------------------------
+.bn 001.png
+.pn 1
 
 
 
@@ -33,8 +34,9 @@ Plague.
 Printed by <i>James Flesher</i>, Printer to the Honourable
 City of <sc>London</sc>.
 */
------File: 002.png---------------------------------------------------------
------File: 003.png---------------------------------------------------------
+.bn 002.png
+.bn 003.png
+.pn +1
 
 
 
@@ -69,7 +71,8 @@ Oaths for the performance of their Offices. And the
 same Statute did also authorize the giving of other Directions,
 as unto them for the present necessity should
 seem good in their discretions. It is now upon special
------File: 004.png---------------------------------------------------------
+.bn 004.png
+.pn +1
 consideration thought very expedient for preventing
 and avoiding of infection of Sickness (if it shall so please
 Almighty God) that these Officers following be appointed,
@@ -102,7 +105,8 @@ order to the Constable that the House be shut up; and
 if the Constable shall be found remiss or negligent, to
 give present notice thereof to the Alderman of the
 Ward.
------File: 005.png---------------------------------------------------------
+.bn 005.png
+.pn +1
 
 
 <i>Watchmen.</i>
@@ -135,7 +139,8 @@ call before them the said Searchers who are or shall be
 appointed for the several Parishes under their respective
 Cares, to the end they may consider whether they are
 fitly qualified for that employment; and charge them
------File: 006.png---------------------------------------------------------
+.bn 006.png
+.pn +1
 from time to time as they shall see cause, if they appear
 defective in their duties.
 
@@ -172,7 +177,8 @@ Disease of the Infection; It is ordered, that every of the
 said Chirurgions shall have twelve-pence a Body searched
 by them, to be paid out of the goods of the party searched,
 if he be able, or otherwise by the Parish.
------File: 007.png---------------------------------------------------------
+.bn 007.png
+.pn +1
 
 
 <i>Nurse-keepers.</i>
@@ -208,7 +214,8 @@ two hours after the said sign shall appear.
 As soon as any man shall be found by this Examiner,
 Chirurgion or Searcher to be sick of the Plague,
 he shall the same night be sequestred in the same house.
------File: 008.png---------------------------------------------------------
+.bn 008.png
+.pn +1
 And in case he be so sequestred, then though he afterwards
 die not, the House wherein he sickned shall be
 shut up for a Moneth, after the use of due Preservatives
@@ -241,7 +248,8 @@ he falleth sick of the Infection, into any other House
 in the City, (except it be to the Pest-house or a Tent,
 or unto some such House, which the owner of the said
 visited House holdeth in his own hands, and occupieth
------File: 009.png---------------------------------------------------------
+.bn 009.png
+.pn +1
 by his servants) and so as security be given to the
 Parish whither such remove is made, that the attendance
 and charge about the said visited persons shall be observed
@@ -275,7 +283,8 @@ at time of burial of any Corps in any Church, Church-yard,
 or Burying-place to come near the Corps, Coffin,
 or Grave. And that all the Graves shall be at least six
 foot deep.
------File: 010.png---------------------------------------------------------
+.bn 010.png
+.pn +1
 
 And further, all publick Assemblies at other Burials
 are to be forborn during the continuance of this Visitation.
@@ -310,7 +319,8 @@ upon notice thereof given, shall at their charge cause the
 said party so visited and escaped, to be carried and
 brought back again by night, and the parties in this
 case offending, to be punished at the direction of the
------File: 011.png---------------------------------------------------------
+.bn 011.png
+.pn +1
 Alderman of the Ward, and the house of the receiver of
 such visited person to be shut up for twenty daies.
 
@@ -342,7 +352,8 @@ are not to goe into any other house then into their own,
 or into that whereunto they are directed or sent for, but
 to forbear and abstain from company, especially when
 they have been lately used in any such business or attendance.
------File: 012.png---------------------------------------------------------
+.bn 012.png
+.pn +1
 
 
 <i>Inmates.</i>
@@ -380,7 +391,8 @@ First, it is thought very necessary, and so ordered,
 that every Householder do cause the street
 to be daily pared before his door, and so to keep
 it clean swept all the Week long.
------File: 013.png---------------------------------------------------------
+.bn 013.png
+.pn +1
 
 
 <i>That Rakers take it from out the Houses.</i>
@@ -417,7 +429,8 @@ Lanes, but that such Swine be impounded by the Beadle
 or any other Officer, and the Owner punished according
 to Act of Common-Councel, and that the Dogs
 be killed by the Dog-killers appointed for that purpose.
------File: 014.png---------------------------------------------------------
+.bn 014.png
+.pn +1
 
 
 
@@ -460,7 +473,8 @@ Companies of this City; and Dinners at Taverns,
 Alehouses, and other places of common entertainment
 be forborn till further order and allowance; and that
 the money thereby spared, be preserved and imployed
------File: 015.png---------------------------------------------------------
+.bn 015.png
+.pn +1
 for the benefit and relief of the poor visited with the
 infection.
 

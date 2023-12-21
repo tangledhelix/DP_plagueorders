@@ -6,18 +6,18 @@
  'Pg005' => {'offset' => '90.0', 'label' => 'Pg 4', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg006' => {'offset' => '124.0', 'label' => 'Pg 5', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg007' => {'offset' => '162.0', 'label' => 'Pg 6', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg008' => {'offset' => '199.0', 'label' => 'Pg 7', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg009' => {'offset' => '233.0', 'label' => 'Pg 8', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg010' => {'offset' => '268.0', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg011' => {'offset' => '304.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg012' => {'offset' => '337.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg013' => {'offset' => '376.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg014' => {'offset' => '414.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg015' => {'offset' => '458.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg008' => {'offset' => '195.0', 'label' => 'Pg 7', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg009' => {'offset' => '229.0', 'label' => 'Pg 8', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg010' => {'offset' => '264.0', 'label' => 'Pg 9', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg011' => {'offset' => '300.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg012' => {'offset' => '333.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg013' => {'offset' => '367.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg014' => {'offset' => '404.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '443.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '37.13';
+$::bookmarks[0] = '446.10';
 
 $::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
 

@@ -31,12 +31,12 @@ concerning the Infection of the Plague.</l>
 
 [Illustration]
 
-.ce
+.h2
 <xxl>ORDERS</xxl> || \
-<xl>Conceived and published by the Lord <sc>Major</sc> \
-and Aldermen of the City of <i>London</i>, \
-concerning the infection of the Plague.</xl>
-
+<xl>Conceived and published by the \
+Lord <sc>Major</sc> and Aldermen of the City \
+of <i>London</i>, concerning the infection of the \
+Plague.</xl>
 
 Whereas in the first Year of the Reign
 of our late Sovereign King <i>James</i>
@@ -60,7 +60,7 @@ and avoiding of infection of Sickness (if it shall so please
 Almighty God) that these Officers following be appointed,
 and these Orders hereafter duly observed.
 
-
+.h3 nobreak
 <i>Examiners to be appointed in every Parish.</i>
 
 First, it is thought requisite and so ordered, that in
@@ -73,7 +73,7 @@ fit Person so appointed, shall refuse to undertake the
 same, the said parties so refusing, to be committed to
 Prison until they shall conform themselves accordingly.
 
-
+.h3 nobreak
 <i>The Examiners Office.</i>
 
 That these Examiners be sworn by the Alderman, to
@@ -90,7 +90,7 @@ Ward.
 .bn 005.png
 .pn +1
 
-
+.h3 nobreak
 <i>Watchmen.</i>
 
 That to every Infected House there be appointed
@@ -105,7 +105,7 @@ the House and take the Key with him: and the Watchman
 by day to attend until ten of the clock at night:
 and the Watchman by night until six in the morning.
 
-
+.h3 nobreak
 <i>Searchers.</i>
 
 That there be a special care, to appoint Women-Searchers
@@ -131,7 +131,7 @@ permitted to use any publick work or imployment, or
 keep any Shop or Stall, or be imployed as a Landress,
 or in any other common imployment whatsoever.
 
-
+.h3 nobreak
 <i>Chirurgions.</i>
 
 For better assistance of the Searchers, for as much
@@ -162,7 +162,7 @@ if he be able, or otherwise by the Parish.
 .bn 007.png
 .pn +1
 
-
+.h3 nobreak
 <i>Nurse-keepers.</i>
 
 If any Nurse-keeper shall remove herself out of any
@@ -171,15 +171,11 @@ any person dying of the Infection, the House to which
 the said Nurse-keeper doth so remove herself shall be
 shut up until the said 28 daies be expired.
 
+.h2
+<xxl>Orders concerning infected</xxl> | \
+<xl>Houses, and Persons sick of the Plague.</xl>
 
-
-
-/#
-Orders concerning infected
-Houses, and Persons sick of the Plague.
-#/
-
-
+.h3 nobreak
 <i>Notice to be given of the Sickness.</i>
 
 The Master of every House, as soon as any
@@ -190,7 +186,7 @@ apparent cause of some other Disease, shall give
 knowledge thereof to the Examiner of Health within
 two hours after the said sign shall appear.
 
-
+.h3 nobreak
 <i>Sequestration of the Sick.</i>
 
 As soon as any man shall be found by this Examiner,
@@ -203,7 +199,7 @@ die not, the House wherein he sickned shall be
 shut up for a Moneth, after the use of due Preservatives
 taken by the rest.
 
-
+.h3 nobreak
 <i>Airing the Stuff.</i>
 
 For sequestration of the goods and stuff of the infected,
@@ -213,7 +209,7 @@ as are requisite within the infected House, before
 they be taken again to use: this to be done by the appointment
 of the Examiner.
 
-
+.h3 nobreak
 <i>Shutting up of the House.</i>
 
 If any person shall have visited any man, known to be
@@ -222,7 +218,7 @@ known Infected House, being not allowed: the House
 wherein he inhabiteth, shall be shut up for certain daies
 by the Examiners direction.
 
-
+.h3 nobreak
 <i>None to be removed out of Infected Houses, but, &c.</i>
 
 Item, that none be removed out of the House where
@@ -247,7 +243,7 @@ that the same which he sendeth, be for one week at the
 least shut up and secluded from company for fear of
 some infection, at the first not appearing.
 
-
+.h3 nobreak
 <i>Burial of the dead.</i>
 
 That the Burial of the dead by this Visitation be at
@@ -271,7 +267,7 @@ foot deep.
 And further, all publick Assemblies at other Burials
 are to be forborn during the continuance of this Visitation.
 
-
+.h3 nobreak
 <i>No infected Stuff to be uttered.</i>
 
 That no Clothes, Stuff, Bedding or Garments be
@@ -290,7 +286,7 @@ hath been there, his house shall be shut up as Infected,
 and so shall continue shut up twenty daies at the
 least.
 
-
+.h3 nobreak
 <i>No person to be conveyed out of any infected House.</i>
 
 If any person visited do fortune, by negligent looking
@@ -306,7 +302,7 @@ case offending, to be punished at the direction of the
 Alderman of the Ward, and the house of the receiver of
 such visited person to be shut up for twenty daies.
 
-
+.h3 nobreak
 <i>Every visited house to be marked.</i>
 
 That every House visited, be marked with a Red
@@ -316,7 +312,7 @@ that is to say, <i>Lord have mercy upon us</i>, to be set close
 over the same Cross, there to continue until lawful opening
 of the same House.
 
-
+.h3 nobreak
 <i>Every visited House to be watched.</i>
 
 That the Constables see every house shut up, and to
@@ -337,7 +333,7 @@ they have been lately used in any such business or attendance.
 .bn 012.png
 .pn +1
 
-
+.h3 nobreak
 <i>Inmates.</i>
 
 That where several Inmates are in one and the same
@@ -348,7 +344,7 @@ from the Examiners of Health of that Parish; or
 in default thereof, the house whither he or they so remove,
 shall be shut up as in case of Visitation.
 
-
+.h3 nobreak
 <i>Hackney Coaches.</i>
 
 That care be taken of Hackney Coachmen, that they
@@ -358,15 +354,10 @@ and other places, be admitted to common use, till their
 Coaches be well aired, and have stood unimployed by
 the space of five or six daies after such service.
 
+.h2
+<xl>Orders for cleansing and keeping of the Streets sweet.</xl>
 
-
-
-/#
-Orders for cleansing and keeping of the Streets
-sweet.
-#/
-
-
+.h3 nobreak
 <i>The Streets to be kept clean.</i>
 
 First, it is thought very necessary, and so ordered,
@@ -376,7 +367,7 @@ it clean swept all the Week long.
 .bn 013.png
 .pn +1
 
-
+.h3 nobreak
 <i>That Rakers take it from out the Houses.</i>
 
 That the sweeping and filth of houses be daily carried
@@ -384,7 +375,7 @@ away by the Rakers, and that the Raker shall give
 notice of his coming by the blowing of a Horn as heretofore
 hath been done.
 
-
+.h3 nobreak
 <i>Laystalls to be made farre off from the City.</i>
 
 That the Laystalls be removed as farre as may be out
@@ -392,9 +383,8 @@ of the City, and common passages, and that no
 Nightman or other be suffered to empty a Vault into
 any Garden near about the City.
 
-
-<i>Care to be had of unwholesome Fish or Flesh, and of
-musty Corn.</i>
+.h3 nobreak
+<i>Care to be had of unwholesome Fish or Flesh, and of musty Corn.</i>
 
 That special care be taken, that no stinking Fish, or
 unwholsome Flesh, or musty Corn, or other corrupt
@@ -414,15 +404,10 @@ be killed by the Dog-killers appointed for that purpose.
 .bn 014.png
 .pn +1
 
+.h2
+<xl>Orders concerning loose Persons and idle Assemblies.</xl>
 
-
-
-/#
-Orders concerning loose Persons and idle
-Assemblies.
-#/
-
-
+.h3 nobreak
 <i>Beggers.</i>
 
 Forasmuch as nothing is more complained of,
@@ -438,7 +423,7 @@ Streets of this City, in any fashion or manner whatsoever
 upon the penalty provided by the Law to be duly
 and severely executed upon them.
 
-
+.h3 nobreak
 <i>Playes.</i>
 
 That all Playes, Bear-baitings, Games, Singing of
@@ -447,7 +432,7 @@ of people, be utterly prohibited, and the parties offending,
 severely punished by every Alderman in his
 Ward.
 
-
+.h3 nobreak
 <i>Feasting Prohibited.</i>
 
 That all publick Feasting, and particularly by the
@@ -460,7 +445,7 @@ the money thereby spared, be preserved and imployed
 for the benefit and relief of the poor visited with the
 infection.
 
-
+.h3 nobreak
 <i>Tipling-houses.</i>
 
 That disorderly Tipling in Taverns, Alehouses, Coffee-houses

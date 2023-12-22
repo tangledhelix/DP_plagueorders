@@ -477,5 +477,5 @@ other good Orders that by them at their said Meetings
 shall be conceived and devised, for preservation of his
 Majesties Subjects from the Infection.
 
-
-<i>FINIS.</i>
+.ce
+<xl><i>FINIS.</i></xl>

@@ -12,12 +12,12 @@
  'Pg011' => {'offset' => '300.0', 'label' => 'Pg 10', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg012' => {'offset' => '333.0', 'label' => 'Pg 11', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg013' => {'offset' => '367.0', 'label' => 'Pg 12', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg014' => {'offset' => '405.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
- 'Pg015' => {'offset' => '444.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg014' => {'offset' => '404.0', 'label' => 'Pg 13', 'style' => '"', 'action' => '+1', 'base' => ''},
+ 'Pg015' => {'offset' => '443.0', 'label' => 'Pg 14', 'style' => '"', 'action' => '+1', 'base' => ''},
 );
 
 
-$::bookmarks[0] = '481.0';
+$::bookmarks[0] = '446.10';
 
 $::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
 

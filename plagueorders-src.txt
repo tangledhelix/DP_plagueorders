@@ -6,7 +6,6 @@
 
 .dt Orders conceived and published by the Lord Major and Aldermen of the City of London, concerning the infection of the plague, by Anonymous—A Project Gutenberg eBook
 
-
 .bn 001.png
 .pn 1
 
@@ -530,4 +529,3 @@ retained.
 .if t
 This file uses <i>underscores</i> to indicate italic text.
 .if-
-

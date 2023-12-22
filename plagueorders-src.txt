@@ -40,9 +40,10 @@ concerning the Infection of the Plague.</l>
 .bn 003.png
 .pn +1
 
+.pb
 .il fn=i003-banner.png w=100%
 
-.h2
+.h2 nobreak
 <xxl>ORDERS</xxl> || \
 <xl>Conceived and published by the \
 Lord <sc>Major</sc> and Aldermen of the City \

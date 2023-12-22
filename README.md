@@ -38,39 +38,41 @@ None.
 
 ### General notes ###
 
+On upload, remember to mention CSS3 drop-caps in the WW notes.
+
 ### Illustrations ###
 
-- [ ] 001: publisher logo
-- [ ] 003: banner image
-- [ ] 003: illustrated drop-cap
-- [ ] 007: illustrated drop-cap
-- [ ] 012: illustrated drop-cap
-- [ ] 014: illustrated drop-cap
+- [x] 001: publisher logo
+- [x] 003: banner image
+- [x] 003: illustrated drop-cap
+- [x] 007: illustrated drop-cap
+- [x] 012: illustrated drop-cap
+- [x] 014: illustrated drop-cap
 
 ### Things to revisit ###
 
-- [ ] 003: illo dropcap
-- [ ] 004: 2 x dropcap
-- [ ] 005: starts new para/section
-- [ ]       2 x dropcap
-- [ ] 006: dropcap
-- [ ] 007: starts new para/section
-- [ ]       illo dropcap
-- [ ]       2 x dropcap
-- [ ] 008: 3 x dropcap
-- [ ] 009: dropcap
-- [ ] 010: starts new para
-- [ ]       2 x dropcap
-- [ ] 011: 2 x dropcap
-- [ ] 012: starts new para/section
-- [ ]       2 x dropcap
-- [ ]       illo dropcap
-- [ ] 013: starts new para/section
-- [ ]       3 x dropcap
-- [ ] 014: starts new para/section
-- [ ]       illo dropcap
-- [ ]       2 x dropcap
-- [ ] 015: dropcap
+- [x] 003: illo dropcap
+- [x] 004: 2 x dropcap
+- [x] 005: starts new para/section
+- [x]       2 x dropcap
+- [x] 006: dropcap
+- [x] 007: starts new para/section
+- [x]       illo dropcap
+- [x]       2 x dropcap
+- [x] 008: 3 x dropcap
+- [x] 009: dropcap
+- [x] 010: starts new para
+- [x]       2 x dropcap
+- [x] 011: 2 x dropcap
+- [x] 012: starts new para/section
+- [x]       2 x dropcap
+- [x]       illo dropcap
+- [x] 013: starts new para/section
+- [x]       3 x dropcap
+- [x] 014: starts new para/section
+- [x]       illo dropcap
+- [x]       2 x dropcap
+- [x] 015: dropcap
 
 ### Proofer's notes ###
 

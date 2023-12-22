@@ -81,3 +81,33 @@ On upload, remember to mention CSS3 drop-caps in the WW notes.
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+Beginning:
+
+```
+.if h
+.de div.tnotes { padding-left:1em;padding-right:1em;background-color:#E3E4FA;border:1px solid silver; margin:2em 10% 0 10%; }
+.de .covernote { visibility: hidden; display: none; }
+.de div.tnotes p { text-align:left; }
+.de @media handheld { .covernote { visibility: visible; display: block;} }
+.dv class="tnotes covernote"
+<b>Transcriber's Note:</b>
+
+New original cover art included with this eBook is granted to the public domain.
+.dv-
+.if-
+```
+
+End:
+
+```
+.h2
+Transcriber’s Notes
+
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+
+.if t
+This file uses <i>underscores</i> to indicate italic text.
+.if-
+```

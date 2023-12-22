@@ -54,24 +54,24 @@ On upload, remember to mention CSS3 drop-caps in the WW notes.
 - [x] 003: illo dropcap
 - [x] 004: 2 x dropcap
 - [x] 005: starts new para/section
-- [x]       2 x dropcap
+    - [x] 2 x dropcap
 - [x] 006: dropcap
 - [x] 007: starts new para/section
-- [x]       illo dropcap
-- [x]       2 x dropcap
+    - [x] illo dropcap
+    - [x] 2 x dropcap
 - [x] 008: 3 x dropcap
 - [x] 009: dropcap
 - [x] 010: starts new para
-- [x]       2 x dropcap
+    - [x] 2 x dropcap
 - [x] 011: 2 x dropcap
 - [x] 012: starts new para/section
-- [x]       2 x dropcap
-- [x]       illo dropcap
+    - [x] 2 x dropcap
+    - [x] illo dropcap
 - [x] 013: starts new para/section
-- [x]       3 x dropcap
+    - [x] 3 x dropcap
 - [x] 014: starts new para/section
-- [x]       illo dropcap
-- [x]       2 x dropcap
+    - [x] illo dropcap
+    - [x] 2 x dropcap
 - [x] 015: dropcap
 
 ### Proofer's notes ###

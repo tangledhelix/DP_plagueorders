@@ -63,6 +63,7 @@ and these Orders hereafter duly observed.
 .h3 nobreak
 <i>Examiners to be appointed in every Parish.</i>
 
+.dc 0.2 0.6
 First, it is thought requisite and so ordered, that in
 every Parish there be one, two, or more persons of
 good sort and credit, chosen and appointed by the Alderman,
@@ -76,6 +77,7 @@ Prison until they shall conform themselves accordingly.
 .h3 nobreak
 <i>The Examiners Office.</i>
 
+.dc 0.2 0.6
 That these Examiners be sworn by the Alderman, to
 enquire and learn from time to time what Houses in
 every Parish be visited, and what persons be sick, and of
@@ -93,6 +95,7 @@ Ward.
 .h3 nobreak
 <i>Watchmen.</i>
 
+.dc 0.2 0.6
 That to every Infected House there be appointed
 two Watchmen, one for the Day, and the other for
 the Night: And that these Watchmen have a special
@@ -108,6 +111,7 @@ and the Watchman by night until six in the morning.
 .h3 nobreak
 <i>Searchers.</i>
 
+.dc 0.2 0.6
 That there be a special care, to appoint Women-Searchers
 in every Parish, such as are of honest reputation,
 and of the best sort as can be got in this kind:
@@ -134,6 +138,7 @@ or in any other common imployment whatsoever.
 .h3 nobreak
 <i>Chirurgions.</i>
 
+.dc 0.2 0.6
 For better assistance of the Searchers, for as much
 as there hath been heretofore great abuse in misreporting
 the Disease, to the further spreading of the
@@ -165,6 +170,7 @@ if he be able, or otherwise by the Parish.
 .h3 nobreak
 <i>Nurse-keepers.</i>
 
+.dc 0.3 0.6
 If any Nurse-keeper shall remove herself out of any
 infected House before 28 daies after the decease of
 any person dying of the Infection, the House to which
@@ -189,6 +195,7 @@ two hours after the said sign shall appear.
 .h3 nobreak
 <i>Sequestration of the Sick.</i>
 
+.dc 0.5 0.6
 As soon as any man shall be found by this Examiner,
 Chirurgion or Searcher to be sick of the Plague,
 he shall the same night be sequestred in the same house.
@@ -202,6 +209,7 @@ taken by the rest.
 .h3 nobreak
 <i>Airing the Stuff.</i>
 
+.dc 0.2 0.6
 For sequestration of the goods and stuff of the infected,
 their Bedding, and Apparel, and Hangings of
 Chambers, must be well aired with fire, and such perfumes
@@ -212,6 +220,7 @@ of the Examiner.
 .h3 nobreak
 <i>Shutting up of the House.</i>
 
+.dc 0.3 0.6
 If any person shall have visited any man, known to be
 Infected of the Plague, or entred willingly into any
 known Infected House, being not allowed: the House
@@ -221,6 +230,7 @@ by the Examiners direction.
 .h3 nobreak
 <i>None to be removed out of Infected Houses, but, &c.</i>
 
+.dc 0.3 0.6
 Item, that none be removed out of the House where
 he falleth sick of the Infection, into any other House
 in the City, (except it be to the Pest-house or a Tent,
@@ -246,6 +256,7 @@ some infection, at the first not appearing.
 .h3 nobreak
 <i>Burial of the dead.</i>
 
+.dc 0.2 0.6
 That the Burial of the dead by this Visitation be at
 most convenient hours, alwaies either before Sun-rising,
 or after Sun-setting, with the privity of the
@@ -270,6 +281,7 @@ are to be forborn during the continuance of this Visitation.
 .h3 nobreak
 <i>No infected Stuff to be uttered.</i>
 
+.dc 0.2 0.6
 That no Clothes, Stuff, Bedding or Garments be
 suffered to be carried or conveyed out of any infected
 Houses, and that the Criers and Carriers abroad of
@@ -289,6 +301,7 @@ least.
 .h3 nobreak
 <i>No person to be conveyed out of any infected House.</i>
 
+.dc 0.3 0.6
 If any person visited do fortune, by negligent looking
 unto, or by any other means, to come, or be conveyed
 from a place infected, to any other place, the Parish
@@ -305,6 +318,7 @@ such visited person to be shut up for twenty daies.
 .h3 nobreak
 <i>Every visited house to be marked.</i>
 
+.dc 0.2 0.6
 That every House visited, be marked with a Red
 Cross of a foot long, in the middle of the door,
 evident to be seen, and with these usual Printed words,
@@ -315,6 +329,7 @@ of the same House.
 .h3 nobreak
 <i>Every visited House to be watched.</i>
 
+.dc 0.2 0.6
 That the Constables see every house shut up, and to
 be attended with Watchmen, which may keep
 them in, and minister necessaries unto them at their own
@@ -336,6 +351,7 @@ they have been lately used in any such business or attendance.
 .h3 nobreak
 <i>Inmates.</i>
 
+.dc 0.2 0.6
 That where several Inmates are in one and the same
 house, and any person in that house happen to be
 infected; no other person or family of such house shall
@@ -347,6 +363,7 @@ shall be shut up as in case of Visitation.
 .h3 nobreak
 <i>Hackney Coaches.</i>
 
+.dc 0.2 0.6
 That care be taken of Hackney Coachmen, that they
 may not (as some of them have been observed to
 doe) after carrying of infected persons to the Pesthouse,
@@ -370,6 +387,7 @@ it clean swept all the Week long.
 .h3 nobreak
 <i>That Rakers take it from out the Houses.</i>
 
+.dc 0.2 0.6
 That the sweeping and filth of houses be daily carried
 away by the Rakers, and that the Raker shall give
 notice of his coming by the blowing of a Horn as heretofore
@@ -378,6 +396,7 @@ hath been done.
 .h3 nobreak
 <i>Laystalls to be made farre off from the City.</i>
 
+.dc 0.2 0.6
 That the Laystalls be removed as farre as may be out
 of the City, and common passages, and that no
 Nightman or other be suffered to empty a Vault into
@@ -386,6 +405,7 @@ any Garden near about the City.
 .h3 nobreak
 <i>Care to be had of unwholesome Fish or Flesh, and of musty Corn.</i>
 
+.dc 0.2 0.6
 That special care be taken, that no stinking Fish, or
 unwholsome Flesh, or musty Corn, or other corrupt
 fruits of what sort soever, be suffered to be sold
@@ -426,6 +446,7 @@ and severely executed upon them.
 .h3 nobreak
 <i>Playes.</i>
 
+.dc 0.2 0.6
 That all Playes, Bear-baitings, Games, Singing of
 Ballads, Buckler-play, or such like causes of Assemblies
 of people, be utterly prohibited, and the parties offending,
@@ -435,6 +456,7 @@ Ward.
 .h3 nobreak
 <i>Feasting Prohibited.</i>
 
+.dc 0.2 0.6
 That all publick Feasting, and particularly by the
 Companies of this City; and Dinners at Taverns,
 Alehouses, and other places of common entertainment
@@ -448,6 +470,7 @@ infection.
 .h3 nobreak
 <i>Tipling-houses.</i>
 
+.dc 0.2 0.6
 That disorderly Tipling in Taverns, Alehouses, Coffee-houses
 and Cellars be severely looked unto, as
 the common Sin of this time, and greatest occasion of

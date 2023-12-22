@@ -185,7 +185,7 @@ shut up until the said 28 daies be expired.
 .h3 nobreak
 <i>Notice to be given of the Sickness.</i>
 
-.di i007.png 172 175 0.6
+.di i007.png 98 100 0.6
 The Master of every House, as soon as any
 one in his House complaineth, either of Botch
 or Purple, or Swelling in any part of his body,
@@ -379,7 +379,7 @@ the space of five or six daies after such service.
 .h3 nobreak
 <i>The Streets to be kept clean.</i>
 
-.di i012.png 168 175 0.6
+.di i012.png 72 75 0.6
 First, it is thought very necessary, and so ordered,
 that every Householder do cause the street
 to be daily pared before his door, and so to keep
@@ -433,7 +433,7 @@ be killed by the Dog-killers appointed for that purpose.
 .h3 nobreak
 <i>Beggers.</i>
 
-.di i014.png 166 175 0.6
+.di i014.png 85 90 0.6
 Forasmuch as nothing is more complained of,
 then the multitude of Rogues and wandering
 Beggers that swarm in every place about the

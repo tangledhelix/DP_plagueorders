@@ -6,9 +6,6 @@
 
 .dt Orders conceived and published by the Lord Major and Aldermen of the City of London, concerning the infection of the plague, by Anonymous—A Project Gutenberg eBook
 
-.bn 001.png
-.pn 1
-
 .if h
 .de div.tnotes { padding-left:1em;padding-right:1em;background-color:#E3E4FA;border:1px solid silver; margin:2em 10% 0 10%; }
 .de .covernote { visibility: hidden; display: none; }
@@ -20,6 +17,9 @@
 New original cover art included with this eBook is granted to the public domain.
 .dv-
 .if-
+
+.bn 001.png
+.pn 1
 
 .h1
 <xxl>ORDERS</xxl> | \

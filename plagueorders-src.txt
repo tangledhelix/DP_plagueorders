@@ -13,14 +13,14 @@
 .h1
 <xxl>ORDERS</xxl> | \
 <l>CONCEIVED</l> | <s>AND</s> | <l>PUBLISHED</l> | <s>By</s> | \
-<l>The Lord <i>MAJOR</i> and Aldermen \
+<l>The Lord <em>MAJOR</em> and Aldermen \
 of the City of <sc>London</sc>, | \
 concerning the Infection of the Plague.</l>
 
 [Illustration]
 
 .ce
-<l>Printed by <i>James Flesher</i>, Printer to the Honourable</l>
+<l>Printed by <em>James Flesher</em>, Printer to the Honourable</l>
 
 .ce
 <l>City of <sc>London</sc>.</l>
@@ -35,11 +35,11 @@ concerning the Infection of the Plague.</l>
 <xxl>ORDERS</xxl> || \
 <xl>Conceived and published by the \
 Lord <sc>Major</sc> and Aldermen of the City \
-of <i>London</i>, concerning the infection of the \
+of <em>London</em>, concerning the infection of the \
 Plague.</xl>
 
 Whereas in the first Year of the Reign
-of our late Sovereign King <i>James</i>
+of our late Sovereign King <em>James</em>
 of happy memory, an Act was
 made for the charitable relief and
 ordering of Persons infected with

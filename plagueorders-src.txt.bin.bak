@@ -1,5 +1,5 @@
 %::pagenumbers = (
- 'Pg001' => {'offset' => '9.0', 'label' => 'Pg 1', 'style' => 'Arabic', 'action' => 'Start @', 'base' => '1'},
+ 'Pg001' => {'offset' => '21.0', 'label' => 'Pg 1', 'style' => 'Arabic', 'action' => 'Start @', 'base' => '1'},
  'Pg002' => {'offset' => '39.0', 'label' => '', 'style' => '"', 'action' => 'No Count', 'base' => ''},
  'Pg003' => {'offset' => '40.0', 'label' => 'Pg 2', 'style' => '"', 'action' => '+1', 'base' => ''},
  'Pg004' => {'offset' => '69.0', 'label' => 'Pg 3', 'style' => '"', 'action' => '+1', 'base' => ''},
@@ -17,7 +17,7 @@
 );
 
 
-$::bookmarks[0] = '46.11';
+$::bookmarks[0] = '7.147';
 
 $::pngspath = '/Users/dan/dp/pp/plagueorders/pngs/';
 

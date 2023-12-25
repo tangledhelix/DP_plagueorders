@@ -16,7 +16,7 @@
 of the City of <sc>London</sc>, | \
 concerning the Infection of the Plague.</l>
 
-.il fn=pstamp.png w=30%
+.il fn=pstamp.png w=30% alt="Publisher's logo"
 
 .ce
 <l>Printed by <em>James Flesher</em>, Printer to the Honourable</l>
@@ -29,7 +29,7 @@ concerning the Infection of the Plague.</l>
 .pn +1
 
 .pb
-.il fn=i003-banner.png w=100%
+.il fn=i003-banner.png w=100% alt="Decorative panel"
 
 .h2 nobreak
 <xxl>ORDERS</xxl> || \

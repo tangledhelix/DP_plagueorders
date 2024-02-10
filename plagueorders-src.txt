@@ -185,7 +185,7 @@ shut up until the said 28 daies be expired.
 .h3 nobreak
 <i>Notice to be given of the Sickness.</i>
 
-.di i007.png 98 100 0.6
+.di i007.png 87 0.6
 The Master of every House, as soon as any
 one in his House complaineth, either of Botch
 or Purple, or Swelling in any part of his body,

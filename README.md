@@ -42,12 +42,12 @@ On upload, remember to mention CSS3 drop-caps in the WW notes.
 
 ### Illustrations ###
 
-- [x] 001: publisher logo
-- [x] 003: banner image
-- [x] 003: illustrated drop-cap
-- [x] 007: illustrated drop-cap
-- [x] 012: illustrated drop-cap
-- [x] 014: illustrated drop-cap
+- [x] 001: publisher logo - about 1/3 page width. prev: 295 × 300
+- [x] 003: banner image - 100% page width. prev: 1864 × 624
+- [ ] 003: illustrated drop-cap - about 1/3 page width. prev: 175 × 171
+- [ ] 007: illustrated drop-cap - about 1/5 page width. prev: 98 × 100
+- [ ] 012: illustrated drop-cap - about 1/6 page width? prev: 72 × 75
+- [ ] 014: illustrated drop-cap - about 1/5 page width. prev: 85 × 90
 
 ### Things to revisit ###
 

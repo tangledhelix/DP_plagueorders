@@ -16,7 +16,7 @@
 of the City of <sc>London</sc>, | \
 concerning the Infection of the Plague.</l>
 
-.il fn=pstamp.png w=30% alt="Publisher's logo"
+.il fn=pstamp.png w=33% alt="Publisher's logo"
 
 .ce
 <l>Printed by <em>James Flesher</em>, Printer to the Honourable</l>
@@ -433,7 +433,7 @@ be killed by the Dog-killers appointed for that purpose.
 .h3 nobreak
 <i>Beggers.</i>
 
-.di i014.png 85 90 0.6
+.di i014.png 85 0.6
 Forasmuch as nothing is more complained of,
 then the multitude of Rogues and wandering
 Beggers that swarm in every place about the

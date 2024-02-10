@@ -38,7 +38,7 @@ Lord <sc>Major</sc> and Aldermen of the City \
 of <em>London</em>, concerning the infection of the \
 Plague.</xl>
 
-.di i003.png 175 171 0.9
+.di i003.png 171 0.9
 Whereas in the first Year of the Reign
 of our late Sovereign King <em>James</em>
 of happy memory, an Act was

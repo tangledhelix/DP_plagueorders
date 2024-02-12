@@ -9,6 +9,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 - [Trello board](https://trello.com/b/bf1q5qxO/dp-orders-conceived-and-published-by-the-lord-major-and-aldermen-of-the-city-of-london-concerning-the-infection-of-the-plague)
 - [Good words](good_words.txt)
 - [Bad words](bad_words.txt)
+- [Project Gutenberg](https://www.gutenberg.org/ebooks/72934)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's
 page numbers.

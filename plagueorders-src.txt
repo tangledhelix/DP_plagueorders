@@ -524,7 +524,8 @@ This file uses <i>underscores</i> to indicate italic text.
 
 .if h
 .de .covernote { visibility: hidden; display: none; }
-.de @media handheld { .covernote { visibility: visible; display: block; } }
+.de .x-ebookmaker .covernote { visibility: visible; display: block; }
+
 .dv class="covernote"
 New original cover art included with this eBook is granted to the public domain.
 .dv-

@@ -2,7 +2,7 @@ guiguts.log
 /zipdir
 /ebooks
 *.zip
-*.html
-*.html.bin
-*-utf8.txt
-*-utf8.txt.bin
+plagueorders.html
+plagueorders.html.bin
+plagueorders-utf8.txt
+plagueorders-utf8.txt.bin
